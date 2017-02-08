@@ -20,13 +20,6 @@
 		<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,all"/>
 		<link href="css/style2.css" type="text/css" rel="stylesheet" media="screen,all"/>
 		<link href="css/normalize.css" type="text/css" rel="stylesheet" media="screen,all"/>
-		
-		<style>
-
-
-		</style>
-	</head>
-	<body>
 		<script>
 		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -35,8 +28,10 @@
 
 		  ga('create', 'UA-91652309-1', 'auto');
 		  ga('send', 'pageview');
-
 		</script>
+	</head>
+	<body>
+		
 
 		<section class="content_general">
 
