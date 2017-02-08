@@ -444,18 +444,18 @@
 
 									<h5 class="titulosServicios text-align">Estudios finalizados</h5>
 
-									<p class="parrafosServicios">--- Tecnico superior en informatica( Universidad Politecnica Jose Antonio Anzoátegui )</p>
-									<p class="parrafosServicios">--- Ingeniero en informatica( Universidad Politecnica Jose Antonio Anzoátegui )</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- TECNICO SUPERIOR EN INFORMATICA ( UNIVERSIDAD POLITECNICA JOSÉ ANTONIO ANZOATEGUÍ)</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- INGENIERO EN INFORMATICA ( UNIVERSIDAD POLITECNICA JOSE ANTONIO ANZOATEGUI )</p>
 									
 
 									<h5 class="titulosServicios text-align">Cursos y conocimientos :</h5>
 
-									<p class="parrafosServicios">--- HTML5, CSS3 Y PHP - 30/HORAS</p>
-									<p class="parrafosServicios">--- DISEÑO WEB DESDE CERO A AVANZADO <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( UDEMY ) </a> - 45/HORAS</p>
-									<p class="parrafosServicios">--- MANEJO GNU-LINUX - 20/HORAS</p>
-									<p class="parrafosServicios">--- OFIMATICA SOFTWARE LIBRE - 20/HORAS</p>
-									<p class="parrafosServicios">--- ENSAMBLAJE REPARACION Y MANTENIMIENTO DE COMPUTADORAS - 30/HORAS</p>
-									<p class="parrafosServicios">--- SISTEMA DE CONTROL DE VERSIONES GIT Y GIT-HUB 5/HORAS</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- HTML5, CSS3 Y PHP - 30/HORAS</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- DISEÑO WEB DESDE CERO A AVANZADO <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( UDEMY ) </a> - 45/HORAS</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- MANEJO GNU-LINUX - 20/HORAS</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- OFIMATICA SOFTWARE LIBRE - 20/HORAS</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- ENSAMBLAJE REPARACION Y MANTENIMIENTO DE COMPUTADORAS - 30/HORAS</p>
+									<p style="font-size: 1.1em;" class="parrafosServicios">--- SISTEMA DE CONTROL DE VERSIONES GIT Y GIT-HUB 5/HORAS</p>
 
 									<br>
 								</div>
