@@ -549,7 +549,7 @@
 				<!-- endfooter -->
 			</section>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-			<script src="js/materialize.min.js"></script>
+			<script src="js/materialize.js"></script>
 			<script src="js/animatescroll.min.js"></script>
 			<script src="js/misScripts.js"></script>
 			<script>			
