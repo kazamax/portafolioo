@@ -441,13 +441,21 @@
 										<div class="determinate" style="width: 40%;background: #eeff41      "></div>
 									</div><br>
 
-									<h5 class="titulosServicios text-align">Cursos realizados :</h5>
 
-									<p class="parrafosServicios">--- HTML5, CSS3 Y PHP - 25/HORAS</p>
+									<h5 class="titulosServicios text-align">Estudios finalizados</h5>
+
+									<p class="parrafosServicios">--- Tecnico superior en informatica( Universidad Politecnica Jose Antonio Anzoátegui )</p>
+									<p class="parrafosServicios">--- Ingeniero en informatica( Universidad Politecnica Jose Antonio Anzoátegui )</p>
+									
+
+									<h5 class="titulosServicios text-align">Cursos y conocimientos :</h5>
+
+									<p class="parrafosServicios">--- HTML5, CSS3 Y PHP - 30/HORAS</p>
 									<p class="parrafosServicios">--- DISEÑO WEB DESDE CERO A AVANZADO <a target="_blank" href="https://www.udemy.com/diseno-web-desde-cero/"> ( UDEMY ) </a> - 45/HORAS</p>
 									<p class="parrafosServicios">--- MANEJO GNU-LINUX - 20/HORAS</p>
 									<p class="parrafosServicios">--- OFIMATICA SOFTWARE LIBRE - 20/HORAS</p>
-									<p class="parrafosServicios">--- REPARACION Y MANTENIMIENTO DE COMPUTADORAS - 20/HORAS</p>
+									<p class="parrafosServicios">--- ENSAMBLAJE REPARACION Y MANTENIMIENTO DE COMPUTADORAS - 30/HORAS</p>
+									<p class="parrafosServicios">--- SISTEMA DE CONTROL DE VERSIONES GIT Y GIT-HUB 5/HORAS</p>
 
 									<br>
 								</div>
