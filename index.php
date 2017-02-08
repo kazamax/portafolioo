@@ -168,7 +168,7 @@
 						<div class="col s12 m6 l4 pull-l1" style="display: center";>
 							<div class="box">
 								<div class="front">
-									<img src="img/es.png" width="100%" height="100%">
+									<img src="img/lenguajes-tecnologias.png" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Distintas tecnologias</p>
@@ -192,7 +192,7 @@
 						<div class="col s12 m6 l4 push-l1">
 							<div class="box">
 								<div class="front">
-									<img src="img/paginas.png" width="100%" height="100%">
+									<img src="img/paginas-servicios.png" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Productos disponibles</p>
@@ -311,7 +311,7 @@
 							<div class="col s12 m6 l6">
 								<div class="card">
 									<div class="card-image waves-effect waves-block waves-purple">
-										<img class="activator" src="img/proyecto-tienda.png">
+										<img class="activator" src="img/proyecto-tienda-online.png">
 									</div>
 									<div class="card-content">
 										<span class="card-title activator grey-text text-darken-4"><a target="_blank" style="color:#F4511E;" href="https://subli-forgames.rhcloud.com/">Tienda online</a><i class="material-icons right">desktop_windows</i></span>
@@ -340,7 +340,7 @@
 					<div  class="slider">
 						<ul class="slides">
 							<li>
-								<img class="responsive-img" src="img/beg.jpg" alt="" height="550" width="1024"> <!-- imagen -->
+								<img class="responsive-img" src="img/paisaje-tecnologico.jpg" alt="" height="550" width="1024"> <!-- imagen -->
 								<div class="caption center-align">
 									<p style="font-size: 2em;">Hola <i class="small material-icons">face</i></p>
 									<h5 class="light grey-text text-lighten-3">Soy Roberto Figuera Ingeniero  Informatico <i class="tiny material-icons">school</i><br>Front-End y Back-End Developer<br>Freelance</h5> 
@@ -349,7 +349,7 @@
 							</li>
 
 							<li>
-								<img class="responsive-img" src="img/beg.jpg" alt=""> <!-- imagen -->
+								<img class="responsive-img" src="img/paisaje-tecnologico.jpg" alt=""> <!-- imagen -->
 								<div class="caption center-align">
 									<p style="font-size: 2em;">Hola <i class="small material-icons">face</i></p>
 									<h5 class="light grey-text text-lighten-3">Soy Roberto Figuera Ingeniero  Informatico <i class="tiny material-icons">school</i><br>Front-End y Back-End Developer<br>Freelance</h5> 
