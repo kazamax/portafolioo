@@ -455,18 +455,36 @@
 									<p style="font-size: 1.2em" class="parrafosServicios">--- MANEJO GNU-LINUX - 20/HORAS</p>
 									<p style="font-size: 1.2em" class="parrafosServicios">--- OFIMATICA SOFTWARE LIBRE - 20/HORAS</p>
 									<p style="font-size: 1.2em" class="parrafosServicios">--- ENSAMBLAJE REPARACIÓN Y MANTENIMIENTO DE COMPUTADORAS - 30/HORAS</p>
-									<p style="font-size: 1.2em" class="parrafosServicios">--- SISTEMA DE CONTROL DE VERSIONES GIT Y GIT-HUB 5/HORAS</p>
+									<p style="font-size: 1.2em" class="parrafosServicios">--- SISTEMA DE CONTROL DE VERSIONES GIT Y GIT-HUB 5/HORAS</p><br><br>
 
 									<br>
 								</div>
 							</div>
 						</article>
-						<div class="container divider"></div><br>
+						<div class="container divider"></div><br><br>
 						<article>
 							<div id="sectionF">
 								<div style=" font-size:1.4em; border: 2px solid black; text-shadow:6px 5px 7px #90A4AE; letter-spacing: 2px; color:#F4511E; font-weight: bold;margin:auto"  class="card-panel hoverable center-align container" class="card-panel hoverable center-align container">CONTACTAME <i class="material-icons">people</i></div>
-							</div><br><br><br>
-							<p class="parrafosServicios" style="text-align: center;font-size: 1.7em;">has click aqui --> <a style="color:#F4511E;font-weight: bold" target="_blank" href="https://roberto-figuera-dev.typeform.com/to/Fx3DQU">Formulario</a> <--y en breve me pondre en contacto contigo.</p><br><br><br>
+							</div><br><br>
+						
+							<div class="container ">
+				<div  class="row">
+					<div  class="col s12 m12 l12">
+						<!-- Change the width and height values to suit you best -->
+<div  class="typeform-widget" data-url="https://roberto-figuera-dev.typeform.com/to/Fx3DQU" data-text="Formulario" style="width:100%;height:500px;"></div>
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
+<div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"><a href="https://www.typeform.com/examples/?utm_campaign=Fx3DQU&amp;utm_source=typeform.com-6602362-Basic&amp;utm_medium=typeform&amp;utm_content=typeform-embedded-poweredbytypeform&amp;utm_term=ES" style="color: #999" target="_blank"></a></div>
+					</div>
+				</div>
+			</div><br><br>
+<!--fin form-->
+
+
+
+
+
+
+
 						</article>
 					</section>
 
