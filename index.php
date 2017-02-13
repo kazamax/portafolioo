@@ -2,7 +2,7 @@
 		<html lang="es">
 		<head>
 			<meta charset="UTF-8">
-			
+
 			<title>Diseño de paginas web para tu negocio, empresa u oficina.</title>
 			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 			<meta name="keywords" content="paginas web, diseño y programacion de sitios web profesionales">
@@ -10,7 +10,7 @@
 			<meta name="author" content="http://roberto-figuera.16mb.com/">
 			<meta name="owner" content="Roberto Jose Figuera Espinoza">
 			<meta name="robots" content="index, follow">
-			
+
 			<link rel="shortcut icon" href="img/icon.ico" />	
 			<link href="https://fonts.googleapis.com/css?family=Architects+Daughter|Farsan" rel="stylesheet">
 			<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -20,10 +20,10 @@
 			<link href="css/style.css" type="text/css" rel="stylesheet" media="screen,all"/>
 			<link href="css/style2.css" type="text/css" rel="stylesheet" media="screen,all"/>
 			<link href="css/normalize.css" type="text/css" rel="stylesheet" media="screen,all"/>
-			
+
 		</head>
 		<body>
-			
+
 
 			<section class="content_general">
 
@@ -34,7 +34,7 @@
 					<ul id='dropdown1' class='dropdown-content'>
 						<li class="waves-effect waves-red"><a style="color:black;" href="https://roberto-figuera-dev.typeform.com/to/Fx3DQU">Contacto</a></li>
 						<li class="divider"></li>
-						
+
 						<li class="waves-effect waves-red"><a style="color:black;" onclick="servicios()">Servicios</a></li>
 						<li class="divider"></li>
 
@@ -48,7 +48,7 @@
 
 					</ul>
 				</div>
-				
+
 
 				<div class="navbar">
 					<nav class="hide-on-small-only navegacion navbar-fixed z-depth-5">
@@ -60,7 +60,7 @@
 									<a target="_blank" href="https://roberto-figuera-dev.typeform.com/to/Fx3DQU"><i class="fa fa-envelope-open-o" aria-hidden="true"></i></a>
 
 								</li>
-								
+
 
 								<li style="border-left: 1px solid white;" class="tab waves-effect waves-purple">
 
@@ -91,7 +91,7 @@
 						</div>
 					</nav>
 				</div>
-				
+
 
 				<div class="container mensajeh1 ">
 					<h1 style="font-size: 2.4em;font-weight: bold;">Diseño y programación de paginas web, freelance Roberto Figuera</h1>
@@ -106,7 +106,7 @@
 
 			<section class="body">
 
-				
+
 				<!--end primer section-->
 				<div class="fixed-action-btn">
 					<a class="btn-floating btn-large red">
@@ -134,7 +134,7 @@
 						<li><a href="https://roberto-figuera-dev.typeform.com/to/Fx3DQU" target="_blank" class="icon-formulario waves-effect waves-purple"><i class="fa fa-envelope-open-o" aria-hidden="true"></i></a></li>
 					</ul>
 				</div>
-				
+
 
 				<!-- end header -->
 
@@ -144,13 +144,13 @@
 				</section>
 				<!-- fin boton -->
 
-				
+
 				<section id="servicios" class="all-section titulos-servicios"><br>
 					<div style="font-size:1.4em;border: 2px solid black; text-shadow:6px 5px 7px #90A4AE; letter-spacing: 2px; color:#F4511E; font-weight: bold;margin:auto"  class="card-panel hoverable center-align container" class="card-panel hoverable center-align container"> SERVICIOS <i class="material-icons">trending_up</i></div>
 					<!-- Aca finaliza la pantalla de welcome -->
 					<div class="container">
-						
-						
+
+
 						<div class="row" >
 
 							<div class="col s12 m6 l4 pull-l1" style="display: center";>
@@ -226,7 +226,7 @@
 							</div>
 
 
-							
+
 
 							<div class="col s12 m6 l7  hide-on-med-and-down">
 								<div class="box">
@@ -239,7 +239,7 @@
 									</div>
 								</div>
 							</div>
-							
+
 						</div><br><br>
 						<div class="row">
 							<div class="col l12">
@@ -442,7 +442,7 @@
 
 										<p style="font-size: 1.2em" class="parrafosServicios">--- TECNICO SUPERIOR EN INFORMÁTICA ( UNIVERSIDAD POLITECNICA TERRITORIAL JOSÉ ANTONIO ANZOÁTEGUI )</p>
 										<p style="font-size: 1.2em" class="parrafosServicios">--- INGENIERO EN INFORMÁTICA ( UNIVERSIDAD POLITECNICA TERRITORIAL JOSE ANTONIO ANZOÁTEGUI )</p>
-										
+
 
 										<h5 class="titulosServicios text-align">Cursos y conocimientos :</h5>
 
@@ -462,7 +462,7 @@
 								<div id="sectionF">
 									<div style=" font-size:1.4em; border: 2px solid black; text-shadow:6px 5px 7px #90A4AE; letter-spacing: 2px; color:#F4511E; font-weight: bold;margin:auto"  class="card-panel hoverable center-align container" class="card-panel hoverable center-align container">CONTACTAME <i class="material-icons">people</i></div>
 								</div><br><br>
-								
+
 								<div class="container ">
 									<div  class="row">
 										<div  class="col s12 m12 l12">
@@ -485,7 +485,7 @@
 						</section>
 
 						<!-- quien soy SLIDER END-->
-					</body>
+
 					<footer id="footerSection" class="page-footer purple darken-3">
 						<div class="row">
 							<article>
@@ -582,4 +582,5 @@
 					ga('send', 'pageview');
 				});
 			</script>
+			</body>
 			</html>
