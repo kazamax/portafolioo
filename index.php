@@ -160,7 +160,7 @@
 						<div class="col s12 m6 l4 pull-l1" style="display: center";>
 							<div class="box">
 								<div class="front">
-									<img src="img/lenguajes-tecnologias.png" width="100%" height="100%">
+									<img alt="tecnologias a usar en paginas web" title="tecnologias para desarrollar sitios web" src="img/lenguajes-tecnologias.png" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Distintas tecnologias</p>
@@ -172,7 +172,7 @@
 						<div class="col s12 m6 l4 ">
 							<div class="box">
 								<div class="front">
-									<img src="img/seoo.jpg" width="100%" height="100%">
+									<img alt="seo y su importancia en la web" title="el seo factor importante en una pagina web" src="img/seoo.jpg" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Optimización web (SEO)</p>
@@ -184,7 +184,7 @@
 						<div class="col s12 m6 l4 push-l1">
 							<div class="box">
 								<div class="front">
-									<img src="img/paginas-servicios.png" width="100%" height="100%">
+									<img alt="servicios web roberto-figuera" title="productos ofrecidos por roberto figuera" src="img/paginas-servicios.png" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Productos disponibles</p>
@@ -204,7 +204,7 @@
 							<div class="col s12 m6 l4 hide-on-large-only pull-l1 ">
 							<div class="box">
 								<div class="front">
-									<img src="img/pagina-web-tiempo.jpg" width="100%" height="100%">
+									<img alt="responsable freelance roberto figuera" title="seriedad para con los clientes roberto figuera" src="img/pagina-web-tiempo.jpg" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Responsabilidad y puntualidad</p>
@@ -220,7 +220,7 @@
 						<div class="col s12 m6 l5 push-l1 hide-on-med-and-down">
 							<div class="box">
 								<div class="front">
-									<img src="img/usabilidad.jpg" width="100%" height="100%">
+									<img alt="sitios su usabilidad en paginas web" title="la usabilidad en sitios y paginas web" src="img/usabilidad.jpg" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Usabilidad y Rapidez (Carga)</p>
@@ -235,7 +235,7 @@
 						<div class="col s12 m6 l7  hide-on-med-and-down">
 							<div class="box">
 								<div class="front">
-									<img src="img/pagina-web-tiempo.jpg" width="100%" height="100%">
+									<img alt="responsable en proyectos de aplicaciones web" title="puntualidad en los servicios paginas web" src="img/pagina-web-tiempo.jpg" width="100%" height="100%">
 								</div>
 								<div class="back white">
 									<p class="center-align titulosCubo">Responsabilidad y puntualidad</p>
@@ -287,7 +287,7 @@
 							<div class="col s12 m6 l6">
 								<div class="card">
 									<div class="card-image waves-effect waves-block waves-purple">
-										<img class="activator" src="img/proyecto-portafolio.png">
+										<img class="activator" src="img/proyecto-portafolio.png" alt="proyecto portafolio como pagina web" title="sitio web como portafolio profesional">
 									</div>
 									<div class="card-content">
 										<span class="card-title  grey-text text-darken-4"><a target="_blank" style="color:#F4511E;" href="http://roberto-figuera.16mb.com">Portafolio web</a><i class="material-icons right">desktop_windows</i></span>
@@ -303,7 +303,7 @@
 							<div class="col s12 m6 l6">
 								<div class="card">
 									<div class="card-image waves-effect waves-block waves-purple">
-										<img class="activator" src="img/proyecto-tienda-online.png">
+										<img class="activator" src="img/proyecto-tienda-online.png" alt="proyecto tienda online web hecha por roberto figuera" title="tienda online desarrollada por roberto figuera">
 									</div>
 									<div class="card-content">
 										<span class="card-title activator grey-text text-darken-4"><a target="_blank" style="color:#F4511E;" href="https://subli-forgames.rhcloud.com/">Tienda online</a><i class="material-icons right">desktop_windows</i></span>
@@ -332,7 +332,7 @@
 					<div  class="slider">
 						<ul class="slides">
 							<li>
-								<img class="responsive-img" src="img/paisaje-tecnologico.jpg" alt="" height="550" width="1024"> <!-- imagen -->
+								<img class="responsive-img" src="img/paisaje-tecnologico.jpg" alt="paisaje con logos de programacion web" title="un paisaje con logos de tecnologias web" height="550" width="1024"> <!-- imagen -->
 								<div class="caption center-align">
 									<p style="font-size: 2em;">Hola <i class="small material-icons">face</i></p>
 									<h5 class="light grey-text text-lighten-3">Soy Roberto Figuera Ingeniero  Informatico <i class="tiny material-icons">school</i><br>Front-End y Back-End Developer<br>Freelance</h5> 
@@ -341,7 +341,7 @@
 							</li>
 
 							<li>
-								<img class="responsive-img" src="img/paisaje-tecnologico.jpg" alt=""> <!-- imagen -->
+								<img class="responsive-img" src="img/paisaje-tecnologico.jpg" paisaje con logos de programacion web" title="un paisaje con logos de tecnologias web"> <!-- imagen -->
 								<div class="caption center-align">
 									<p style="font-size: 2em;">Hola <i class="small material-icons">face</i></p>
 									<h5 class="light grey-text text-lighten-3">Soy Roberto Figuera Ingeniero  Informatico <i class="tiny material-icons">school</i><br>Front-End y Back-End Developer<br>Freelance</h5> 
@@ -455,7 +455,7 @@
 									<p style="font-size: 1.2em" class="parrafosServicios">--- MANEJO GNU-LINUX - 20/HORAS</p>
 									<p style="font-size: 1.2em" class="parrafosServicios">--- OFIMATICA SOFTWARE LIBRE - 20/HORAS</p>
 									<p style="font-size: 1.2em" class="parrafosServicios">--- ENSAMBLAJE REPARACIÓN Y MANTENIMIENTO DE COMPUTADORAS - 30/HORAS</p>
-									<p style="font-size: 1.2em" class="parrafosServicios">--- SISTEMA DE CONTROL DE VERSIONES GIT Y GIT-HUB 5/HORAS</p><br><br>
+									<p style="font-size: 1.2em" class="parrafosServicios">--- SISTEMA DE CONTROL DE VERSIONES GIT Y GIT-HUB 5/HORAS</p><br>
 
 									<br>
 								</div>
@@ -548,7 +548,7 @@
 									<div class="col l4 offset-l2 s12 m3">
 										<h5 class="palabras_footer">Sobre mi <i class="material-icons">face</i></h5>
 										<div class="author-info">
-											<img class="avatar" src="img/roberto-figuera-developer.png" width="100%" height="100%">
+											<img alt="programador paginas web roberto figuera" title="roberto figuera programador sitios web" class="avatar" src="img/roberto-figuera-developer.png" width="100%" height="100%">
 										</div>
 										<p style="font-size: 1.1em;letter-spacing:1px" class="letter-spacing line-height white-text text-lighten-2 left-align"> Mi nombre es Roberto Figuera me encanta <i class="fa fa-heart-o" aria-hidden="true"></i> programar, 100% autodidacta, en mis ratos libres me divierto con juegos online, me gustan los retos, ayudar a las personas y vivir aplicando este paradigma : Lifelong learning...</p>
 									</div>
