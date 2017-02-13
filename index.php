@@ -1,11 +1,11 @@
 		<!DOCTYPE html>
-	<html lang="en">
+	<html lang="es">
 	<head>
 		<meta charset="UTF-8">
 		
 		<title>Diseño de paginas web para tu negocio, empresa u oficina.</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-		<meta name="keywords" content="">
+		<meta name="keywords" content="paginas web, diseño y programacion de sitios web profesionales">
 		<meta name="description" content="Freelance, Diseño y programación de paginas web, tiendas online, sitios web profesionales para ti, tu negocio, o empresa freelance Roberto Figuera Venezuela">
 		<meta name="author" content="http://roberto-figuera.16mb.com/">
 		<meta name="owner" content="Roberto Jose Figuera Espinoza">
@@ -132,9 +132,9 @@
 			<div class="social hide-on-small-only">
 				<ul>
 					<li><a href="https://www.facebook.com/RobertoDevel" target="_blank" class="icon-facebook waves-effect waves-purple"><i class="fa fa-facebook fa-lg" aria-hidden="true"></i></a></li>
-					<li><a href="http://www.twitter.com/falconmasters" target="_blank" class="icon-twitter waves-effect waves-purple"><i class="fa fa-twitter " aria-hidden="true"></i></a></li>
-					<li><a href="http://www.googleplus.com/falconmasters" target="_blank" class="icon-googleplus waves-effect waves-purple"><i class="fa fa-google" aria-hidden="true"></i></a></li>
-					<li><a href="http://www.pinterest.com/falconmasters" target="_blank" class="icon-pinterest waves-effect waves-purple"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+					<li><a href="" target="_blank" class="icon-twitter waves-effect waves-purple"><i class="fa fa-twitter " aria-hidden="true"></i></a></li>
+					<li><a href="" target="_blank" class="icon-googleplus waves-effect waves-purple"><i class="fa fa-google" aria-hidden="true"></i></a></li>
+					<li><a href="" target="_blank" class="icon-pinterest waves-effect waves-purple"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
 					<li><a href="https://roberto-figuera-dev.typeform.com/to/Fx3DQU" target="_blank" class="icon-formulario waves-effect waves-purple"><i class="fa fa-envelope-open-o" aria-hidden="true"></i></a></li>
 				</ul>
 			</div>
